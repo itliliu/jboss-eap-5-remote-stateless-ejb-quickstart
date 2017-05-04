@@ -56,7 +56,7 @@
         <dependency>
           <groupId>org.jboss.as</groupId>
           <artifactId>jbossall-client</artifactId>
-          <version>5.2.0</version>
+          
           <type>jar</type>
           <scope>system</scope>
           <!-- For JBoss ESB 5.x -->
